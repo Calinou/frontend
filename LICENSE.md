@@ -14,10 +14,6 @@ are permitted provided that the following conditions are met:
     3. Neither the name of Aurous nor the names of its contributors may be used
        to endorse or promote products derived from this software without
        specific prior written permission.
-	   
-	  4. Software cannot contain any proprietary software that you do not own a license to.
-	  
-	  5. You must retain a link to this repository and any alterations you make to the source code must be public. 
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
 ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
